@@ -1,0 +1,17 @@
+#jay{
+    font-size:60px;
+    margin-left: 400px;
+    background:  linear-gradient(orangered 50%,lime 100%);
+    background-clip: text;
+   
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: s 1s ease-out infinite;
+}
+@keyframes s{
+   
+    100%{transform: scale(.9);} 
+    
+  }
+
+ 
