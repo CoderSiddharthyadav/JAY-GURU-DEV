@@ -1,2 +1,2 @@
 # JAY-GURU-DEV
-[Click this🤔](https://codersiddharthyadav.github.io/JAY-GURU-DEV/)
+[Click me🤔](https://codersiddharthyadav.github.io/JAY-GURU-DEV/)
